@@ -1,0 +1,21 @@
+h2 {
+  text-align: center;
+  font-family: fantasy;
+  }
+
+  h3 {
+    text-align: center;
+    color: red;
+  }
+  .col-md-4 p {
+    text-align: center;
+    font-weight: bold;
+    color: black;
+  }
+  h1{
+    text-align: center;
+    font-family: cursive;
+  }
+  .jumbotron p{
+    color: green;
+  }
